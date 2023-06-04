@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dante0624. I'm a junior studying Computer Science and Engineering (CSE) at UCONN. 
-- 👀 I’m interested in a summer internship in software engineering.
+- 👋 Hi, I’m @dante0624. I'm a 2023 graduate from the University of Connecticut with a 3.98 GPA.
+- 👀 I graduated with a major in CS (Cybersecurity concentration) and a minor in mathematics.
 - 📫 You can reach me at dantecriscio@gmail.com
 
 <!---
